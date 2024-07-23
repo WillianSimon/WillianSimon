@@ -5,7 +5,7 @@ Olha, vocês não tem noção do quanto estou feliz por estar nessa transição 
 ### Quem sou eu?
 
 Um pai de família, casado, 3 filhos lindos. Tenho a família que amo e é o meu maior bem desse mundo! Ela é a razão de eu lutar todos os dias para trazer sempre conforto e bem estar.
-Eu vivo sempre pensando em algo que eu possa melhorar, me desenvolver, crescer, ser mais criativo, conhecer novas oportunidades para cada vez ser mais útil do que já me considero. As curiosidades em novos aprendizados sempre me fez sair do lugar e descobrir coisas incríveis assim como o desenvolvimento Web. 
+Eu vivo sempre pensando em algo que eu possa melhorar, me desenvolver, crescer, ser mais criativo, conhecer novas oportunidades para cada vez ser mais útil do que já me considero. As curiosidades em novos aprendizados sempre me fizeram sair do lugar e descobrir coisas incríveis assim como o desenvolvimento Web. 
 
 
 🔭 Atualmente, estou estudando pela plataforma online "Curso em Vídeo" com o excelente professor Gustavo Guanabara que tem uma didática surreal.
