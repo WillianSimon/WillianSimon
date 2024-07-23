@@ -41,8 +41,6 @@ Eu vivo sempre pensando em algo que eu possa melhorar, me desenvolver, crescer, 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 
 ![Willian GitHub stats](https://github-readme-stats.vercel.app/api?username=williansimon&show_icons=true&theme=radical)
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williansimon&langs_count=8)
 
 É isso galera, estou bastante animado para logo ingressar definitivamente no mercado de trabalho desse mundo dos Dev's Web, equanto isso ainda não acontece, irei continuar minha jornada de aprendizado e absorver ao máximo tudo que irá me deixar ainda mais preparado. 
