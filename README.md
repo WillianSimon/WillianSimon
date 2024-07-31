@@ -1,6 +1,6 @@
-## Olá! Eu sou o Willian Simon!👋 Sejam muito bem vindos aqui galera!
+## E aí galera! Eu sou o Willian Simon!👋 Sejam muito bem vindos aqui!
 
-Olha, vocês não tem noção do quanto estou feliz por estar nessa transição de carreira onde me tornarei um Excelente Desenvolvedor Web! Não tenho dúvidas. Eu simplesmente me encontrei e afirmo! Essa sem dúvida está sendo a mais praserosa profissão que já pude ter ao longo da minha vida.
+Vocês não tem noção do quanto estou feliz por estar nessa transição de carreira onde me tornarei um Excelente Desenvolvedor Web! Não tenho dúvidas. Eu simplesmente me encontrei e afirmo! Essa sem dúvida está sendo a mais praserosa profissão que já pude ter ao longo da minha vida.
 
 ### Quem sou eu?
 
